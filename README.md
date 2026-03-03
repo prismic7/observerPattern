@@ -10,7 +10,7 @@ You're tasked with designing a real-time news subscription service for a media c
 <li><b>Subscriber:</b> Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.</li>
 </ul>
 
-<b>Requirements:</b>
+<b>Requirementss:</b>
 
 <ol>
   
