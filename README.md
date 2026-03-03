@@ -20,7 +20,7 @@ You're tasked with designing a real-time news subscription service for a media c
 <li>Subscribers should be notified promptly when new news is published.</li>
 </ul>
   
-<b>2. Dynamic Subscription Updates:</b>
+<b>2. Dynamic Subscription Updatess:</b>
 <ul>
 <li>The system should allow for dynamic subscription updates. Subscribers can subscribe, unsubscribe, or modify their preferences without disrupting other subscribers.</li>
 </ul>
