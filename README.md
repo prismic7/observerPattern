@@ -1,7 +1,7 @@
 # observerPattern
 
 <h3>Problem Statement:</h3>
-You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
+You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.e
 <br><br>
 
 <b>Scenario Description:</b> The system comprises two main components: NewsAgency and Subscriber.
